@@ -1,0 +1,56 @@
+;=========================================================================================================================;
+;                                                                                                                         ;
+;  ALL RIGHTS RESERVED © Charlie Walton. NAV-DATA © AEROSOFT. FILES MUST NOT BE DISTRIBUTED TO NON-IVAO MEMBERS! 	  ;
+;  With special thanks to Joshua Ong for the previous edition                                                             ;
+;                                                                                                                         ;
+;=========================================================================================================================;
+;=========================================================================================================================;
+;  AIRAC 2406  ++  Valid period: 13/JUN/2024 - 11/JUL/2024  ++  File-Publisher: IVAO-XO - YMMM (Charlie Walton)		  ;
+;=========================================================================================================================;
+
+WELCOME TO XO DIVISION'S NEW YMME SECTOR FILE. IF YOU HAVE ANY QUESTIONS OR CONCERNS, DO NOT HESITATE TO CONTACT CHARLIE WALTON OR THE SECTORFILE DEVELOPMENT TEAM ON THE XO DISCORD SERVER.
+
+[INFO]
+IVAO-XO Oceanic Division 2406/1 Rev-1 YMMM 20240617
+YMMM FIR (YMME subsector)
+
+
+[CHANGELOG]
+
+First update since January 2024 (expired FEB) therefore several changes including:
+
+2024/2/13
+- grawhigh.awh
+	*Upper airways updated to reflect the new airac.
+- grawlow.awl
+	*Lower airways updated to reflect the new airac.
+- ymmm_apt.apt
+	*Airports updated to reflect the new airac.
+- ymmm_fix.fix
+	*Fixes updated to reflect the new airac.
+- ymmm_atc.atc
+	*Added remaining frequencies within sector (to drop down list).
+- yssy.gts
+	*Bays added.
+- ymml.gts
+	*Bays added.
+- yscb.gts
+	*Bays added.
+- ypad.gts
+	*Bays added.
+- yssy.gts
+	*Bays added.
+- ymav.gts
+	*Bays updated.
+- ymen.gts
+	*Bays updated.
+- ymhb.gts
+	*Bays updated.
+- ymlt.gts
+	*Bays updated.
+- ysnw.gts
+	*Bays updated.
+- ysri.gts
+	*Bays updated.
+
+**PLEASE NOTE: Several aspects within the sector file remain out of date including but not limited to SIDS, STARS, approaches, airport layouts, etc. We are working hard to push an extraordinary update when able with these changes, however cannot given an ETA at this time due to workload and prioritising more out of date material with easier AIRAC fixes. We thank you for your patience, and if you are able to assist with the sector file, please contact me, either by ATIS_Info_Charlie on discord, or charlie.walton@ivao.aero.**
