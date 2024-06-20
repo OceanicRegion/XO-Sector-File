@@ -1,0 +1,56 @@
+;- --- Region:    YBBB FIR - Australia Airspace - Upper Sectors 2406 (YBBB)
+;- --- Sector created by XO AOAC Charlie Walton 724364
+;- ---AIRAC 2406
+
+
+[INFO]
+S027.23.03.000
+E153.07.03.000
+60
+54
+11.0
+YBBB;YBBB\YBBB;YBBB\YBBN;YBBB\YBCG;YBBB\YAMB;YBBB\YARM;YBBB\YBAF;YBBB\YBCS;YBBB\YBHM;YBBB\YBMK;YBBB\YBNA;YBBB\YBOK;YBBB\YBRK;YBBB\YBSU;YBBB\YBTL;YBBB\YBUD;YBBB\YBWW;YBBB\YCFS;YBBB\YPMQ;YBBB\YSBK;YBBB\YSCN;YBBB\YSRI;YBBB\YSSY;YBBB\YSTW;YBBB\YWLM;YBBB\YTRE;YBBB\YPDN;YBBB\YBRM;
+;
+;YBBN Centerpoint // Current
+;S027.23.03.000
+;E153.07.03.000
+[ATC]
+F;YBBB.atc
+[VOR]
+F;YBBB.vor
+[NDB]
+F;YBBB.ndb
+[AIRPORT]
+F;YBBB.apt
+[FIXES]
+F;YBBB.fix
+[RUNWAY]
+F;YBBB.rwy
+[FILLCOLOR]
+F;YPDN.tfl
+F;YBRM.tfl
+[GEO]
+F;coast.geo
+F;ybbn.geo
+F;ypdn.geo
+F;ybcg.geo
+F;ycfs.geo
+F;ystw.geo
+F;ywlm.geo
+F;ybsu.geo
+F;ybrk.geo
+F;ybmk.geo
+F;ybhm.geo
+F;ybtl.geo
+F;ybcs.geo
+[ARTCC]
+F;YBBB.acc
+F;others.acc
+[ARTCC HIGH]
+F;YBBB.hartcc
+[ARTCC LOW]
+F;YBBB.lartcc
+[HIGH AIRWAY]
+F;Hair.way
+[LOW AIRWAY]
+F;Lair.way
