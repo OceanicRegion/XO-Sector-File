@@ -43,5 +43,13 @@ The create the GEO file
 
 You do not need to add taxiway or holding point labels.
 
+# Do not update:
++ Fixes, NDBs, VORs
++ Airways
++ ARPs
++ Airport Gates
+
+We get this information automatically from AIRAC updates.
+
 ### Contribution Agreement
 By contributing to this repository you agree that the ownership of any alteration(s) and/or addition(s) you make are transferred to IVAO Oceanic in its entirety and cannot be recalled.
