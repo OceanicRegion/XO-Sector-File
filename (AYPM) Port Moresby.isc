@@ -1,0 +1,41 @@
+//	Moresby Control - (MORESBY SECTOR) AIRAC 2109
+// Sector cteated by Alexander Nazarenko (VID:646135)
+// Version 1.1
+[INFO]
+-9.453333
+147.2150000
+60
+57.5
+6
+AYPM;AYPM\AYPM;AYPM\AYPY;AYPM\AYMH;AYPM\SMALL;
+[ATC]
+F;AYPM.atc
+[VOR]
+F;AYPM.vor
+[NDB]
+F;AYPM.ndb
+[AIRPORT]
+F;AYPM.apt
+[FIXES]
+F;AYPM.fix
+[RUNWAY]
+F;AYPM.rwy
+[FILLCOLOR]
+F;AYPY.tfl
+[GEO]
+F;coast.geo
+F;prohibited.geo
+F;restricted.geo
+F;danger.geo
+F;AYPY.geo
+F;AYNZ.geo
+F;AYPY.mva
+[ARTCC]
+F;others.acc
+F;AYPM.acc
+[ARTCC HIGH]
+F;AYPM.hartcc
+[ARTCC LOW]
+F;AYPM.lartcc
+[HIGH AIRWAY]
+F;Hair.way
