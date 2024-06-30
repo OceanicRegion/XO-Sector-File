@@ -45,6 +45,7 @@ You do not need to add taxiway or holding point labels.
 
 # Do not update:
 + Fixes, NDBs, VORs
++ SIDs, STARs, IAPs
 + Airways
 + ARPs
 + Airport Gates
