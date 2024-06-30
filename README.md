@@ -50,7 +50,7 @@ You do not need to add taxiway or holding point labels.
 + ARPs
 + Airport Gates
 
-We get this information automatically from AIRAC updates.
+We get this information automatically from AIRAC updates, this is administered by ATC Operations and any issues identified should be raised directly with the ATC Operations Assistant Coordinator.
 
 ### Contribution Agreement
 By contributing to this repository you agree that the ownership of any alteration(s) and/or addition(s) you make are transferred to IVAO Oceanic in its entirety and cannot be recalled.
