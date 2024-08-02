@@ -1,0 +1,22 @@
+;=========================================================================================================================;
+;                                                                                                                         ;
+;  ALL RIGHTS RESERVED © IVAO XO Division.									 	  ;
+;  Contributing Sectorfile Developers (since summer 2024):								  ;
+;  Charlie Walton 724364, Alexander Juhola-Jones 724361, Nicolas Soret 493962, Weviton Benevidas Sales 693590		  ;
+;                                                                                                                         ;
+;  The XO sectorfiles are open source, you can contribute at https://github.com/OceanicRegion/XO-Sector-File		  ;
+;  For further information on how to contribute, contact Charlie Walton at charlie.walton@ivao.aero.			  ;
+;                                                                                                                         ;
+;=========================================================================================================================;
+;=========================================================================================================================;
+;  AIRAC 2407  ++  Valid period: 11/JUL/2024 - 08/AUG/2024  ++  File-Publisher: IVAO-XO - YMMM (Charlie Walton)		  ;
+;=========================================================================================================================;
+
+[INFO]
+IVAO-XO Oceanic Division 2407/1 Rev-1 NZZC 20240802
+NZZC FIR (YMME subsector)
+
+[CHANGELOG]
+Auckland Airport overhaul including SIDs, STARs, Approaches, SMR, Taxiway Labels, VRPs.
+AIRAC update to fixes & airways
+Removed shading due to heavy impact on performance
