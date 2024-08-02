@@ -1,0 +1,17 @@
+// [SID]
+// Label is mandatory before starting the Track section
+// Label : ICAO;RW1(:RW2);ID;LAT;LON;
+// Track : LAT;LON; OR FIXE;FIXE; OR VOR;FIXE OR .....
+
+//////////////////////////////////////////////////////////////////////////////////////////////
+//NZWP SID
+
+//BAYES
+
+NZWP;03;BAYES2A;S037.16.05.406;E174.41.07.010;0;
+//THR21
+S036.47.06.530;E174.38.20.610;
+BAYES;BAYES;-3000;
+
+NZWP;08;BAYES2B;S037.16.05.406;E174.41.07.010;0;
+
