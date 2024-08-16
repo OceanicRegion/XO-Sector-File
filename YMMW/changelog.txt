@@ -18,6 +18,17 @@ YMMM FIR (YMMw subsector)
 
 [CHANGELOG]
 
-Fix to .tfl files causes issues with lines on the airport maps.
-Fix to magnetic variation.
-AIRAC update to fixes & airways. 
+Complete overhaul of YPPH SIDs & STARs
+Removed LAHSO hold short lines at YPPH
+Added C11 Holding Point YPPH
+Added CTR YPPH
+Added CTR YPJK
+Added CTR YPKA
+Added CTR YBAS
+Added CTR YPLM
+Added TMA YPPH
+Added TMA YPKA
+Added TMA YBAS
+Added TMA YAYE
+Added Danger Areas
+Added Restricted Areas
