@@ -27,3 +27,4 @@ Added Danger Areas
 Added Restricted Areas
 Added VFR Waypoints YPPH, YPJT, YPEA, YPKA, YPPD, YAYE, YBAS
 Added custom ATIS file
+Updated ATC List with transfer list
