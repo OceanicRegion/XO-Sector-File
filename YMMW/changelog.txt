@@ -21,14 +21,8 @@ YMMM FIR (YMMw subsector)
 Complete overhaul of YPPH SIDs & STARs
 Removed LAHSO hold short lines at YPPH
 Added C11 Holding Point YPPH
-Added CTR YPPH
-Added CTR YPJK
-Added CTR YPKA
-Added CTR YBAS
-Added CTR YPLM
-Added TMA YPPH
-Added TMA YPKA
-Added TMA YBAS
-Added TMA YAYE
+Added CTR YPPH, YPJK, YPKA, YBAS, YPLM
+Added TMA YPPH, YPKA, YBAS, YAYE
 Added Danger Areas
 Added Restricted Areas
+Added VFR Waypoints YPPH, YPJT, YPEA, YPKA, YPPD, YAYE, YBAS
