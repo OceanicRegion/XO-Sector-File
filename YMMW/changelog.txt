@@ -9,15 +9,15 @@
 ;                                                                                                                         ;
 ;=========================================================================================================================;
 ;=========================================================================================================================;
-;  AIRAC 2407  ++  Valid period: 11/JUL/2024 - 08/AUG/2024  ++  File-Publisher: IVAO-XO - YMMM (Charlie Walton)		  ;
+;  AIRAC 2408  ++  Valid period: 08/AUG/2024 - 05/SEP/2024  ++  File-Publisher: IVAO-XO - YMMM (Charlie Walton)		  ;
 ;=========================================================================================================================;
 
 [INFO]
-IVAO-XO Oceanic Division 2407/1 Rev-1 YMMM 20240720
-YMMM FIR (YMMw subsector)
+IVAO-XO Oceanic Division 2408/1 Rev-1 YMMM 20240720
+YMMM FIR (YMMW subsector)
 
 [CHANGELOG]
-
+Updated Fixes as per AIRAC 2408
 Complete overhaul of YPPH SIDs & STARs
 Removed LAHSO hold short lines at YPPH
 Added C11 Holding Point YPPH
@@ -26,3 +26,4 @@ Added TMA YPPH, YPKA, YBAS, YAYE
 Added Danger Areas
 Added Restricted Areas
 Added VFR Waypoints YPPH, YPJT, YPEA, YPKA, YPPD, YAYE, YBAS
+Added custom ATIS file
