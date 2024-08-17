@@ -1,0 +1,1 @@
+{ "region" : "default", "structure" : "Time check [ATIS_TIME], [STATION_NAME] terminal information [ATIS_LETTER] runway [ARR] for arrivals runway [DEP] for departures [REMARK] [METAR] on first contact with [STATION_NAME] notify receipt of [ATIS_LETTER]" }
