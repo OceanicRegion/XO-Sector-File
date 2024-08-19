@@ -17,14 +17,4 @@ IVAO-XO Oceanic Division 2408/1 Rev-1 YMMM 20240720
 YMMM FIR (YMMW subsector)
 
 [CHANGELOG]
-Updated Fixes & Airways as per AIRAC 2408
-Complete overhaul of YPPH SIDs & STARs
-Removed LAHSO hold short lines at YPPH
-Added C11 Holding Point YPPH
-Added CTR YPPH, YPJK, YPKA, YBAS, YPLM
-Added TMA YPPH, YPKA, YBAS, YAYE
-Added Danger Areas
-Added Restricted Areas
-Added VFR Waypoints YPPH, YPJT, YPEA, YPKA, YPPD, YAYE, YBAS
-Added custom ATIS file
-Updated ATC List with transfer list
+R146A/B/C Removed
