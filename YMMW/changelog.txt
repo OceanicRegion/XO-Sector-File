@@ -17,4 +17,4 @@ IVAO-XO Oceanic Division 2408/1 Rev-1 YMMM 20240720
 YMMM FIR (YMMW subsector)
 
 [CHANGELOG]
-R146A/B/C Removed
+R146A/B/C, R162 Removed
