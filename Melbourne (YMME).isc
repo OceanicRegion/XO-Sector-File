@@ -13,6 +13,9 @@ F;EUROCAT.clr
 [ATC]
 F;COMMON\OTHER\YMMM_ATC.atc
 
+[ATIS]
+F;yxxx.atis
+
 [Airport]
 F;COMMON\NAVAIDS\YMMM_APT.apt
 
