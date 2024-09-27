@@ -2,7 +2,8 @@
 ;                                                                                                                         ;
 ;  ALL RIGHTS RESERVED © IVAO XO Division.									 	  ;
 ;  Contributing Sectorfile Developers (since summer 2024):								  ;
-;  Charlie Walton 724364, Alexander Juhola-Jones 724361, Nicolas Soret 493962, Weviton Benevidas Sales 693590		  ;
+;  Charlie Walton 724364, Alexander Juhola-Jones 724361, Nicolas Soret 493962, Weviton Benevidas Sales 693590, 
+;  Nico Reimann 601292
 ;                                                                                                                         ;
 ;  The XO sectorfiles are open source, you can contribute at https://github.com/OceanicRegion/XO-Sector-File		  ;
 ;  For further information on how to contribute, contact Charlie Walton at charlie.walton@ivao.aero.			  ;
